@@ -1,0 +1,1025 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7882190436560619
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5243349922174217349}
+  m_Layer: 0
+  m_Name: LB-FFlipper01.L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5243349922174217349
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7882190436560619}
+  m_LocalRotation: {x: -0.052613202, y: -0.05404937, z: 0.52287304, w: 0.84906673}
+  m_LocalPosition: {x: -0.014962095, y: -0.00068009546, z: 0.001913264}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 8219578717069382407}
+  m_Father: {fileID: 5876828562010773930}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.8809185, y: -8.446289, z: 63.390163}
+--- !u!1 &793041437753245906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7779685985770087202}
+  m_Layer: 0
+  m_Name: LB-FFlipper01.R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7779685985770087202
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 793041437753245906}
+  m_LocalRotation: {x: -0.052613452, y: 0.054049768, z: -0.522873, w: 0.8490668}
+  m_LocalPosition: {x: 0.014962095, y: -0.00068009563, z: 0.0019132497}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 2648479468630110846}
+  m_Father: {fileID: 5876828562010773930}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -1.8809193, y: 8.446342, z: -63.39015}
+--- !u!1 &840486581046962137
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2071856082674867410}
+  m_Layer: 0
+  m_Name: LB-Back02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2071856082674867410
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 840486581046962137}
+  m_LocalRotation: {x: -0.010246171, y: 8.0519716e-11, z: 1.5546672e-12, w: 0.99994755}
+  m_LocalPosition: {x: 3.0531133e-18, y: 0.017851278, z: -0.0000000024586915}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2501744679248542963}
+  - {fileID: 6459692973722474912}
+  - {fileID: 7113350334391548367}
+  m_Father: {fileID: 1374582404982889753}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.1741452, y: 0.000000009226506, z: 8.361976e-11}
+--- !u!1 &1253209399932201257
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5568480118525231810}
+  m_Layer: 0
+  m_Name: Armature_Leatherback
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5568480118525231810
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1253209399932201257}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children:
+  - {fileID: 791750617966788157}
+  m_Father: {fileID: 9040661734304891772}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!1 &1368692202059251220
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2829725793088847171}
+  m_Layer: 0
+  m_Name: LB-Tail_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2829725793088847171
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1368692202059251220}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.0046175704, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7113350334391548367}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1823400104805435318
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7785954878463211870}
+  m_Layer: 0
+  m_Name: LB-BFlipper02.L_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7785954878463211870
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1823400104805435318}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.01096715, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5582678407226742689}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2186151837907154671
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3505206199555380910}
+  m_Layer: 0
+  m_Name: LB-FFlipper04.R_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3505206199555380910
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2186151837907154671}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.009439852, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 6299826564650951722}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2629784445278863402
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1841254354743140564}
+  m_Layer: 0
+  m_Name: LB-FFlipper03.L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1841254354743140564
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2629784445278863402}
+  m_LocalRotation: {x: 0.000000016104673, y: 0.000000015157342, z: -0.18307571, w: 0.98309886}
+  m_LocalPosition: {x: 8.9406965e-10, y: 0.012207262, z: -1.4901161e-10}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 93591039935529686}
+  m_Father: {fileID: 8219578717069382407}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000002132254, y: 0.0000013696889, z: -21.097923}
+--- !u!1 &2985548447509889191
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1374582404982889753}
+  m_Layer: 0
+  m_Name: LB-Back01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1374582404982889753
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2985548447509889191}
+  m_LocalRotation: {x: -0.6965804, y: 0.000000005678647, z: 0.000000005426737, w: 0.71747875}
+  m_LocalPosition: {x: 8.920812e-11, y: -0.0019752686, z: -0.0024476706}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 2071856082674867410}
+  m_Father: {fileID: 963811099309372804}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -88.30661, y: 0.0000011406236, z: -0.0000002406708}
+--- !u!1 &3543808163244496072
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6459692973722474912}
+  m_Layer: 0
+  m_Name: LB-BFlipper01.R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6459692973722474912
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3543808163244496072}
+  m_LocalRotation: {x: -0.09865242, y: 0.079458155, z: -0.2844132, w: 0.9502964}
+  m_LocalPosition: {x: 0.009545897, y: 0.01610187, z: -0.0058904677}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 539835463201079916}
+  m_Father: {fileID: 2071856082674867410}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -8.180969, y: 12.07918, z: -34.190742}
+--- !u!1 &3650575142813250157
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7727584662241253485}
+  - component: {fileID: 8586623301820088999}
+  m_Layer: 0
+  m_Name: LeatherBack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7727584662241253485
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3650575142813250157}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+  m_LocalPosition: {x: -0, y: 0, z: -10}
+  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_Children: []
+  m_Father: {fileID: 9040661734304891772}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &8586623301820088999
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3650575142813250157}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: -2672546552469659089, guid: cadfda0719e1bab4489161639076f5fe, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -4894567795691900219, guid: cadfda0719e1bab4489161639076f5fe, type: 3}
+  m_Bones:
+  - {fileID: 791750617966788157}
+  - {fileID: 963811099309372804}
+  - {fileID: 5876828562010773930}
+  - {fileID: 2264043867173091682}
+  - {fileID: 6232411587841635774}
+  - {fileID: 8741689420035897415}
+  - {fileID: 5243349922174217349}
+  - {fileID: 8219578717069382407}
+  - {fileID: 1841254354743140564}
+  - {fileID: 93591039935529686}
+  - {fileID: 7779685985770087202}
+  - {fileID: 2648479468630110846}
+  - {fileID: 6567916017428483988}
+  - {fileID: 6299826564650951722}
+  - {fileID: 1374582404982889753}
+  - {fileID: 2071856082674867410}
+  - {fileID: 2501744679248542963}
+  - {fileID: 5582678407226742689}
+  - {fileID: 7113350334391548367}
+  - {fileID: 6459692973722474912}
+  - {fileID: 539835463201079916}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 791750617966788157}
+  m_AABB:
+    m_Center: {x: -0.000046752393, y: 0.027976874, z: 0.063062996}
+    m_Extent: {x: 0.057147566, y: 0.015447948, z: 0.043898247}
+  m_DirtyAABB: 0
+--- !u!1 &4679849905101281172
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2264043867173091682}
+  m_Layer: 0
+  m_Name: LB-Neck02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2264043867173091682
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4679849905101281172}
+  m_LocalRotation: {x: -0.00000009901076, y: 0.99252075, z: -0.12207586, w: 0.00000014633939}
+  m_LocalPosition: {x: -8.393286e-16, y: 0.008047356, z: -0.0000000019581057}
+  m_LocalScale: {x: 1, y: 1.0000002, z: 0.99999994}
+  m_Children:
+  - {fileID: 6232411587841635774}
+  m_Father: {fileID: 5876828562010773930}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 14.023842, y: 179.99997, z: -0.000013716893}
+--- !u!1 &5331490239727878995
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6299826564650951722}
+  m_Layer: 0
+  m_Name: LB-FFlipper04.R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6299826564650951722
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5331490239727878995}
+  m_LocalRotation: {x: 0.0000000079279685, y: 0.000000011192423, z: 0.054365184, w: 0.99852115}
+  m_LocalPosition: {x: 0.0000000035762786, y: 0.013963978, z: 0.0000000032782554}
+  m_LocalScale: {x: 1, y: 0.99999976, z: 1}
+  m_Children:
+  - {fileID: 3505206199555380910}
+  m_Father: {fileID: 6567916017428483988}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000008374083, y: 0.0000013300498, z: 6.232863}
+--- !u!1 &5391971524590032786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1039268915030909078}
+  m_Layer: 0
+  m_Name: LB-FFlipper04.L_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1039268915030909078
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5391971524590032786}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.009439852, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 93591039935529686}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5568462780967127796
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2648479468630110846}
+  m_Layer: 0
+  m_Name: LB-FFlipper02.R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2648479468630110846
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5568462780967127796}
+  m_LocalRotation: {x: 0.3470843, y: 0.93591154, z: 0.0047685867, w: 0.059827343}
+  m_LocalPosition: {x: -5.9604643e-10, y: 0.008594121, z: -0.000000003827736}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 6567916017428483988}
+  m_Father: {fileID: 7779685985770087202}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.8684201, y: 173.37573, z: 40.586617}
+--- !u!1 &6299870749359810337
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2501744679248542963}
+  m_Layer: 0
+  m_Name: LB-BFlipper01.L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2501744679248542963
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6299870749359810337}
+  m_LocalRotation: {x: -0.09865242, y: -0.07945815, z: 0.28441322, w: 0.9502964}
+  m_LocalPosition: {x: -0.009545894, y: 0.01610187, z: -0.0058904677}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 5582678407226742689}
+  m_Father: {fileID: 2071856082674867410}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -8.180969, y: -12.079179, z: 34.190742}
+--- !u!1 &6415496134512906970
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8219578717069382407}
+  m_Layer: 0
+  m_Name: LB-FFlipper02.L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8219578717069382407
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6415496134512906970}
+  m_LocalRotation: {x: -0.34708443, y: 0.9359115, z: 0.0047685592, w: -0.059827905}
+  m_LocalPosition: {x: 5.9604643e-10, y: 0.00859412, z: -0.0000000035017729}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 1841254354743140564}
+  m_Father: {fileID: 5243349922174217349}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.8684466, y: -173.37567, z: -40.58663}
+--- !u!1 &6689030182807314199
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8741689420035897415}
+  m_Layer: 0
+  m_Name: LB-Jaw
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8741689420035897415
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6689030182807314199}
+  m_LocalRotation: {x: -0.0812343, y: 0.00000048286785, z: -0.00000032856002, w: 0.99669504}
+  m_LocalPosition: {x: 0.000000008540195, y: 0.00034684807, z: -0.004527691}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 3821585890795287223}
+  m_Father: {fileID: 6232411587841635774}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -9.319034, y: 0.000058986694, z: -0.00004258268}
+--- !u!1 &6719844991265662132
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5876828562010773930}
+  m_Layer: 0
+  m_Name: LB-Neck01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5876828562010773930
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6719844991265662132}
+  m_LocalRotation: {x: 0.7274376, y: -0.00000015848754, z: -0.00000017835484, w: 0.6861739}
+  m_LocalPosition: {x: -4.3452095e-12, y: -0.0021955583, z: 0.0030473326}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5243349922174217349}
+  - {fileID: 7779685985770087202}
+  - {fileID: 2264043867173091682}
+  m_Father: {fileID: 963811099309372804}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 86.65613, y: -179.99951, z: -179.99951}
+--- !u!1 &6741149924554221915
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 539835463201079916}
+  m_Layer: 0
+  m_Name: LB-BFlipper02.R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &539835463201079916
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6741149924554221915}
+  m_LocalRotation: {x: 0.10316044, y: -0.09503685, z: 0.119352885, w: 0.9828941}
+  m_LocalPosition: {x: -5.9604643e-10, y: 0.00890715, z: -0.0000000011920929}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1373301346358067813}
+  m_Father: {fileID: 6459692973722474912}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 13.030953, y: -9.583487, z: 12.750017}
+--- !u!1 &6837118907505677712
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5582678407226742689}
+  m_Layer: 0
+  m_Name: LB-BFlipper02.L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5582678407226742689
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6837118907505677712}
+  m_LocalRotation: {x: 0.10316045, y: 0.09503685, z: -0.11935284, w: 0.9828941}
+  m_LocalPosition: {x: -0.000000001490116, y: 0.008907151, z: 5.9604643e-10}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 7785954878463211870}
+  m_Father: {fileID: 2501744679248542963}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 13.030954, y: 9.583487, z: -12.7500105}
+--- !u!1 &7105051988642623072
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3821585890795287223}
+  m_Layer: 0
+  m_Name: LB-Jaw_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3821585890795287223
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7105051988642623072}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.008248428, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8741689420035897415}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7196975281949070465
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 93591039935529686}
+  m_Layer: 0
+  m_Name: LB-FFlipper04.L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &93591039935529686
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7196975281949070465}
+  m_LocalRotation: {x: 0.000000003730808, y: -0.000000007461616, z: -0.05436514, w: 0.99852115}
+  m_LocalPosition: {x: -0.0000000035762786, y: 0.013963976, z: 0.0000000013411044}
+  m_LocalScale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 1039268915030909078}
+  m_Father: {fileID: 1841254354743140564}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00000038040258, y: -0.0000008770158, z: -6.232858}
+--- !u!1 &7406949919330379482
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1373301346358067813}
+  m_Layer: 0
+  m_Name: LB-BFlipper02.R_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1373301346358067813
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7406949919330379482}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0.01096715, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 539835463201079916}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7426550252535117390
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6232411587841635774}
+  m_Layer: 0
+  m_Name: LB-Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6232411587841635774
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7426550252535117390}
+  m_LocalRotation: {x: -0.13298161, y: 0.0000013636247, z: -0.000000067869806, w: 0.99111855}
+  m_LocalPosition: {x: 4.1211477e-15, y: 0.0058852243, z: -5.215406e-10}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 8741689420035897415}
+  m_Father: {fileID: 2264043867173091682}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -15.283845, y: 0.0001616226, z: -0.00002953243}
+--- !u!1 &8129738174707566682
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 963811099309372804}
+  m_Layer: 0
+  m_Name: LB-Root
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &963811099309372804
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8129738174707566682}
+  m_LocalRotation: {x: -0.008810598, y: -0.000004005762, z: 0.0010472236, w: 0.99996066}
+  m_LocalPosition: {x: -0.000053798252, y: 0.031077934, z: 0.078568995}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1374582404982889753}
+  - {fileID: 5876828562010773930}
+  m_Father: {fileID: 791750617966788157}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.0096322, y: -0.0015165419, z: 0.12002101}
+--- !u!1 &8452020153247698430
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6567916017428483988}
+  m_Layer: 0
+  m_Name: LB-FFlipper03.R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6567916017428483988
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8452020153247698430}
+  m_LocalRotation: {x: 0.00000001515734, y: -0.000000026051675, z: 0.18307576, w: 0.98309886}
+  m_LocalPosition: {x: 5.9604643e-10, y: 0.012207265, z: 0.0000000016391277}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6299826564650951722}
+  m_Father: {fileID: 2648479468630110846}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000002254084, y: -0.0000026168618, z: 21.097929}
+--- !u!1 &8520020350875310534
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9040661734304891772}
+  - component: {fileID: 8750435982058104559}
+  m_Layer: 0
+  m_Name: Turtle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9040661734304891772
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8520020350875310534}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.08, y: 0.08, z: 0.08}
+  m_Children:
+  - {fileID: 5568480118525231810}
+  - {fileID: 7727584662241253485}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!95 &8750435982058104559
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8520020350875310534}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e5f5e21c542850948923476b67b49626, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &8528382666833553635
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 791750617966788157}
+  m_Layer: 0
+  m_Name: Bone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &791750617966788157
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8528382666833553635}
+  m_LocalRotation: {x: 0.7106252, y: 0.00074050686, z: -0.0007405023, w: 0.70357}
+  m_LocalPosition: {x: -0.0000104721785, y: 0.09055355, z: 0.0064615165}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 963811099309372804}
+  m_Father: {fileID: 5568480118525231810}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 89.42802, y: -179.94003, z: 179.93994}
+--- !u!1 &9151653218736224838
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7113350334391548367}
+  m_Layer: 0
+  m_Name: LB-Tail
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7113350334391548367
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9151653218736224838}
+  m_LocalRotation: {x: -0.09231491, y: 8.780791e-10, z: 0.00000003369394, w: 0.99572986}
+  m_LocalPosition: {x: 3.4830822e-10, y: 0.022144627, z: -0.0042395215}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 2829725793088847171}
+  m_Father: {fileID: 2071856082674867410}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -10.593592, y: -0.00000026068395, z: 0.0000039017673}
