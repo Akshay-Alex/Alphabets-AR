@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00c44ac78c06b974f968642b6f001db8, type: 3}
+  m_Name: AlphabetTextDatas
+  m_EditorClassIdentifier: 
+  _data:
+  - _alphabet: A
+    _alphabetText: A for Apple
+  - _alphabet: B
+    _alphabetText: B for Ball
+  - _alphabet: C
+    _alphabetText: C for Cat
+  - _alphabet: D
+    _alphabetText: D for Dog
+  - _alphabet: E
+    _alphabetText: E for Elephant
+  - _alphabet: F
+    _alphabetText: F for Fish
+  - _alphabet: G
+    _alphabetText: G for Girl
+  - _alphabet: H
+    _alphabetText: H for Hat
+  - _alphabet: I
+    _alphabetText: I for Ice Cream
+  - _alphabet: J
+    _alphabetText: J for Joker
+  - _alphabet: K
+    _alphabetText: K for Kite
+  - _alphabet: L
+    _alphabetText: L for Ladder
+  - _alphabet: M
+    _alphabetText: M for Mango
+  - _alphabet: N
+    _alphabetText: N for Nail
+  - _alphabet: O
+    _alphabetText: O for Octopus
+  - _alphabet: P
+    _alphabetText: P for Penguin
+  - _alphabet: Q
+    _alphabetText: Q for Quill
+  - _alphabet: R
+    _alphabetText: R for Rabbit
+  - _alphabet: S
+    _alphabetText: S for Sun
+  - _alphabet: T
+    _alphabetText: T for Turtle
+  - _alphabet: U
+    _alphabetText: U for Umbrella
+  - _alphabet: V
+    _alphabetText: V for Van
+  - _alphabet: W
+    _alphabetText: W for Whale
+  - _alphabet: X
+    _alphabetText: X for Xylophone
+  - _alphabet: Y
+    _alphabetText: Y for Yatch
+  - _alphabet: Z
+    _alphabetText: Z for Zero

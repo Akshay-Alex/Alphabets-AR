@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class AlphabetSound : MonoBehaviour
 {
+    public string Alphabet;
     public AudioClip clip;
     private Animator animator;
     private void Start()
@@ -18,6 +19,7 @@ public class AlphabetSound : MonoBehaviour
             animator.Play("Moving");
         }
         AudioManager.Instance.PlayAudio(clip);
+        TextManager.Instance.ChangeText(Alphabet);
     }
 
 }
